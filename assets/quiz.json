@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "Language is often said to be an intrisic inheritance of man because?",
+            "options": {
+                "A": "Man",
+                "B": "It is only man",
+                "C": "Language is a medium of commuication",
+                "D": "None of the above"
+            },
+            "answer": "B"
+        },
+        {
+            "id": 0,
+            "question": "1 x 3 = ?",
+            "options": {
+                "A": "2",
+                "B": "4",
+                "C": "3",
+                "D": "None of the above"
+            },
+            "answer": "B"
+        }
+    ]
+}
